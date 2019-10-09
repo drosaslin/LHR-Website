@@ -18,6 +18,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.title-green {
+    color: #16AB28;
+}
+
 .body-text {
     font-family: 'Slabo 27px', serif;
 }
@@ -80,4 +84,8 @@
 
 .form-contact {
     width: 100%
+}
+
+.container-footer {
+    background-color: #98A99B;
 }
