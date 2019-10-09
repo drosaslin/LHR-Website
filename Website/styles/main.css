@@ -1,0 +1,91 @@
+.navbar-brand img {
+    width: 150px;
+}
+
+.nav-link {
+    color: black;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgba(22, 171, 39, 1);
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(22, 171, 39, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+}
+
+.body-text {
+    font-family: 'Slabo 27px', serif;
+}
+
+.img-container {
+    position: relative;
+    height: 170px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-img-top {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 300px;
+}
+
+.img-sp {
+    width: 250px;
+}
+
+.btn-learn-more {
+    border-color: greenyellow;
+}
+
+.form-send-button {
+    text-align: center;
+}
+
+.form-message {
+    min-height: 170px;
+}
+
+.form-control {
+    display: inline-block;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0%;
+    border-color: black;
+}
+
+.form-control:focus {
+    border-color: #FF0000;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.form-contact {
+    width: 100%
+}
+
+.form-short-field {
+    display: inline-block;
+}
+
+.form-email-field {
+    float: right;
+}
