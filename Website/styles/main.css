@@ -81,11 +81,3 @@
 .form-contact {
     width: 100%
 }
-
-.form-short-field {
-    display: inline-block;
-}
-
-.form-email-field {
-    float: right;
-}
