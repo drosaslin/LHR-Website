@@ -1,5 +1,5 @@
 .navbar-brand img {
-    width: 150px;
+    width: 180px;
 }
 
 .nav-link {
@@ -103,8 +103,11 @@
 
 @media (max-width: 575.98px) {
     .title-company {
-        font-size: 2.2rem;
+        font-size: 2.0rem;
         font-weight: 300;
+    }
+    .text-intro {
+        font-size: 1.6rem;
     }
     .title-header {
         font-size: 2.0rem;
@@ -116,8 +119,11 @@
 
 @media (min-width: 576px) and (max-width: 767.98px) {
     .title-company {
-        font-size: 2.2rem;
+        font-size: 2.0rem;
         font-weight: 300;
+    }
+    .text-intro {
+        font-size: 1.6rem;
     }
     .title-header {
         font-size: 2.0rem;
@@ -128,12 +134,12 @@
 /* Medium devices (tablets, 768px and up) */
 
 @media (min-width: 768px) and (max-width: 991.98px) {
-    .navbar-brand img {
-        width: 180px;
-    }
     .title-company {
-        font-size: 2.2rem;
+        font-size: 2.0rem;
         font-weight: 300;
+    }
+    .text-intro {
+        font-size: 1.6rem;
     }
     .title-header {
         font-size: 2.0rem;
