@@ -103,7 +103,7 @@
 
 @media (max-width: 575.98px) {
     .title-company {
-        font-size: 1.7rem;
+        font-size: 1.6rem;
         font-weight: 300;
     }
     .text-intro {
@@ -119,7 +119,7 @@
 
 @media (min-width: 576px) and (max-width: 767.98px) {
     .title-company {
-        font-size: 1.7rem;
+        font-size: 1.6rem;
         font-weight: 300;
     }
     .text-intro {
@@ -135,7 +135,7 @@
 
 @media (min-width: 768px) and (max-width: 991.98px) {
     .title-company {
-        font-size: 1.7rem;
+        font-size: 1.6rem;
         font-weight: 300;
     }
     .text-intro {
