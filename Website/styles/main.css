@@ -89,3 +89,7 @@
 .container-footer {
     background-color: #98A99B;
 }
+
+.footer-item {
+    width: fit-content;
+}
