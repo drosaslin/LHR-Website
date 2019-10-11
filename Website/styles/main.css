@@ -118,6 +118,9 @@
 /* Medium devices (tablets, 768px and up) */
 
 @media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-brand img {
+        width: 180px;
+    }
     .title-company {
         font-size: 2.2rem;
         font-weight: 300;
@@ -128,6 +131,9 @@
 /* Large devices (desktops, 992px and up) */
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
+    .navbar-brand img {
+        width: 220px;
+    }
     .title-company {
         font-size: 3.0rem;
         font-weight: 300;
@@ -138,6 +144,9 @@
 /* Extra large devices (large desktops, 1200px and up) */
 
 @media (min-width: 1200px) {
+    .navbar-brand img {
+        width: 220px;
+    }
     .title-company {
         font-size: 3.0rem;
         font-weight: 300;
