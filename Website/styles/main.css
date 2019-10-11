@@ -103,11 +103,11 @@
 
 @media (max-width: 575.98px) {
     .title-company {
-        font-size: 2.0rem;
+        font-size: 1.7rem;
         font-weight: 300;
     }
     .text-intro {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
     }
     .title-header {
         font-size: 2.0rem;
@@ -119,11 +119,11 @@
 
 @media (min-width: 576px) and (max-width: 767.98px) {
     .title-company {
-        font-size: 2.0rem;
+        font-size: 1.7rem;
         font-weight: 300;
     }
     .text-intro {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
     }
     .title-header {
         font-size: 2.0rem;
@@ -135,11 +135,11 @@
 
 @media (min-width: 768px) and (max-width: 991.98px) {
     .title-company {
-        font-size: 2.0rem;
+        font-size: 1.7rem;
         font-weight: 300;
     }
     .text-intro {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
     }
     .title-header {
         font-size: 2.0rem;
