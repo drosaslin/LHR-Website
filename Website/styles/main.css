@@ -22,6 +22,10 @@
     font-size: 2.0rem;
 }
 
+.title-contact {
+    font-size: 2.0rem;
+}
+
 .title-green {
     color: #16AB28;
 }
@@ -63,6 +67,11 @@
 
 .form-message {
     min-height: 170px;
+}
+
+.form-send-button button {
+    background-color: #16AB28;
+    border-color: #16AB28;
 }
 
 .form-control {
@@ -112,6 +121,9 @@
     .title-header {
         font-size: 2.0rem;
     }
+    .title-contact {
+        font-size: 2.0rem;
+    }
 }
 
 
@@ -126,6 +138,9 @@
         font-size: 1.3rem;
     }
     .title-header {
+        font-size: 2.0rem;
+    }
+    .title-contact {
         font-size: 2.0rem;
     }
 }
@@ -144,6 +159,9 @@
     .title-header {
         font-size: 2.0rem;
     }
+    .title-contact {
+        font-size: 2.0rem;
+    }
 }
 
 
@@ -160,6 +178,9 @@
     .title-header {
         font-size: 2.5rem;
     }
+    .title-contact {
+        font-size: 2.2rem;
+    }
 }
 
 
@@ -175,5 +196,8 @@
     }
     .title-header {
         font-size: 2.5rem;
+    }
+    .title-contact {
+        font-size: 2.2rem;
     }
 }
