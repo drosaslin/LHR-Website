@@ -117,11 +117,20 @@
 }
 
 .container-footer {
-    background-color: #98A99B;
+    background-color: #0D6641;
+}
+
+.footer-text {
+    color: white;
 }
 
 .footer-item {
     width: fit-content;
+}
+
+.footer-item a:hover {
+    color: white;
+    text-decoration: underline;
 }
 
 
@@ -131,6 +140,9 @@
     .title-company {
         font-size: 1.6rem;
         font-weight: 300;
+    }
+    .nav-link {
+        font-size: 1rem;
     }
     .text-intro {
         font-size: 1.3rem;
@@ -151,6 +163,9 @@
         font-size: 1.6rem;
         font-weight: 300;
     }
+    .nav-link {
+        font-size: 1rem;
+    }
     .text-intro {
         font-size: 1.3rem;
     }
@@ -170,6 +185,9 @@
         font-size: 1.6rem;
         font-weight: 300;
     }
+    .nav-link {
+        font-size: 1rem;
+    }
     .text-intro {
         font-size: 1.3rem;
     }
@@ -186,7 +204,10 @@
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
     .navbar-brand img {
-        width: 220px;
+        width: 250px;
+    }
+    .nav-link {
+        font-size: 1.2rem;
     }
     .title-company {
         font-size: 3.0rem;
@@ -205,7 +226,10 @@
 
 @media (min-width: 1200px) {
     .navbar-brand img {
-        width: 220px;
+        width: 250px;
+    }
+    .nav-link {
+        font-size: 1.2rem;
     }
     .title-company {
         font-size: 3.0rem;
