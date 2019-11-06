@@ -101,11 +101,11 @@
 }
 
 .form-control:focus {
-    border-color: #FF0000;
+    border-color: #16AB28;
     border-top: none;
     border-left: none;
     border-right: none;
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px RGBA(22, 171, 40, 1);
 }
 
 .contact-info {
