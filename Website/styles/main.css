@@ -77,6 +77,17 @@
     color: white;
 }
 
+.btn-mail {
+    background-color: #16AB28;
+    color: white;
+    padding: 3px;
+}
+
+.btn-mail:hover {
+    color: #16AB28;
+    background-color: white;
+}
+
 .form-send-button {
     text-align: center;
 }
@@ -118,6 +129,10 @@
 
 .container-footer {
     background-color: #0D6641;
+}
+
+.container-contact-message {
+    text-align: center;
 }
 
 .footer-text {
