@@ -133,6 +133,11 @@
 
 .container-contact-message {
     text-align: center;
+    font-size: 1.8rem;
+}
+
+.container-contact-message a {
+    font-size: 1.3rem;
 }
 
 .footer-text {
@@ -168,6 +173,13 @@
     .title-contact {
         font-size: 2.0rem;
     }
+    .container-contact-message {
+        text-align: center;
+        font-size: 1.4rem;
+    }
+    .container-contact-message a {
+        font-size: 1.3rem;
+    }
 }
 
 
@@ -189,6 +201,13 @@
     }
     .title-contact {
         font-size: 2.0rem;
+    }
+    .container-contact-message {
+        text-align: center;
+        font-size: 1.4rem;
+    }
+    .container-contact-message a {
+        font-size: 1.3rem;
     }
 }
 
@@ -212,6 +231,13 @@
     .title-contact {
         font-size: 2.0rem;
     }
+    .container-contact-message {
+        text-align: center;
+        font-size: 1.8rem;
+    }
+    .container-contact-message a {
+        font-size: 1.3rem;
+    }
 }
 
 
@@ -234,6 +260,13 @@
     .title-contact {
         font-size: 2.2rem;
     }
+    .container-contact-message {
+        text-align: center;
+        font-size: 1.8rem;
+    }
+    .container-contact-message a {
+        font-size: 1.3rem;
+    }
 }
 
 
@@ -255,5 +288,12 @@
     }
     .title-contact {
         font-size: 2.2rem;
+    }
+    .container-contact-message {
+        text-align: center;
+        font-size: 1.8rem;
+    }
+    .container-contact-message a {
+        font-size: 1.3rem;
     }
 }
